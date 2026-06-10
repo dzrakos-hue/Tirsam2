@@ -8,8 +8,8 @@ export function Footer() {
       <div className="container-app py-12 grid gap-8 md:grid-cols-4">
         <div>
           <Link to="/" className="flex items-center gap-2 font-bold text-lg">
-            <span className="grid h-8 w-8 place-items-center rounded-lg btn-glow font-black">V</span>
-            VMS Algérie
+            <span className="grid h-8 w-8 place-items-center rounded-lg btn-glow font-black">T</span>
+            Tirsam Algeria
           </Link>
           <p className="mt-3 text-sm text-muted-foreground">{t("footer.tagline")}</p>
         </div>
