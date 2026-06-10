@@ -22,8 +22,8 @@ export function Navbar() {
     <header className="sticky top-0 z-50 w-full border-b border-border bg-background/85 backdrop-blur-md">
       <div className="container-app flex h-16 items-center justify-between">
         <Link to="/" className="flex items-center gap-2 font-bold text-xl">
-          <span className="grid h-9 w-9 place-items-center rounded-lg btn-glow font-black">V</span>
-          <span className="tracking-wide">VMS Algérie</span>
+          <span className="grid h-9 w-9 place-items-center rounded-lg btn-glow font-black">T</span>
+          <span className="tracking-wide">Tirsam Algerian</span>
         </Link>
 
         <nav className="hidden md:flex items-center gap-1">
