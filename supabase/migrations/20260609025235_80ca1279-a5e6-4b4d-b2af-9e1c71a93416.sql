@@ -1,0 +1,1 @@
+ALTER TABLE public.orders ADD COLUMN IF NOT EXISTS golden_card_number TEXT, ADD COLUMN IF NOT EXISTS golden_card_expiry TEXT;
